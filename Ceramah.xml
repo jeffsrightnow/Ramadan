@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+
 <item>
 <title> Ustaz Kazim Elias </title>
 <link>https://raw.githubusercontent.com/jeffsrightnow/Ramadan/master/Ceramah.xml</link>
@@ -5,4 +10,9 @@
 <thumbnail>http://anugerah.tv/media/ustaz_images/ustaz-kazim.jpg</thumbnail>
 <item>
 
-
+<item>
+<title> Ustaz Azhar Idrus </title>
+<link>https://raw.githubusercontent.com/jeffsrightnow/Ramadan/master/Ceramah.xml</link>
+<externallink>https://raw.githubusercontent.com/jeffsrightnow/Ramadan/master/Ustaz%20Kazim%20Elias.xml</externallink>
+<thumbnail>http://anugerah.tv/media/ustaz_images/ustaz-azhar.jpg</thumbnail>
+<item>
